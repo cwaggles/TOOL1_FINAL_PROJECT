@@ -9,7 +9,7 @@ Project is created with:
 
 	
 ## Setup
-Jupyter notebook contains required Python environment and libraries so there is not setup or installation needeed. 
+Jupyter notebook contains required Python libraries. To setup and run, open the binder link and click on the file in the left column titled, "Data Science Tools 1 - Final Project." Once open, install the required packages by running the first code block and then run each code block invidually or find the "⏵⏵" symbol next to the download button at the top of the page. This will run the entire file. 
 
 ## Binder Link
 https://mybinder.org/v2/gh/cwaggles/TOOL1_FINAL_PROJECT/HEAD
